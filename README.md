@@ -1,4 +1,4 @@
-# Number Sorted
+# Number Sorter
 
 Number Sorted is a simple web application that allows users to input a list of numbers and sorts them in ascending order using JavaScript.
 
